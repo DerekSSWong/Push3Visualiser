@@ -3,6 +3,9 @@
 Push 3.0 is a stack-based language aimed to be used in evolutionary computation. Its robust syntax makes it easy to procedually generate, recombine, and mutate programs.
 This application aims to visualise the operation of the language, making it more intuitive to understand how each block of code is executed.
 
+Push 3.0 official website: https://faculty.hampshire.edu/lspector/push.html
+Online interpreter: https://lspector.github.io/interpush/
+
 
 # Downloading the Visualiser
 
